@@ -1,0 +1,1 @@
+export const labels = ['Dashboard' , 'Analytics' , 'Invoice' , 'Schedule' , 'Calendar' , 'Messages' , 'Notification' , 'Settings']
